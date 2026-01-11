@@ -1,0 +1,5 @@
+{
+  "name": "Discord Clone (AI Powered)",
+  "description": "A fully functional Discord clone with real-time text chat simulation, server management, DM support, profile customization, and an integrated AI bot powered by Google Gemini.",
+  "requestFramePermissions": []
+}
