@@ -21,7 +21,9 @@
       "status": "online",
       "bannerColor": "#5865F2",
       "friends": [],
-      "friendRequests": []
+      "friendRequests": [
+        "user-1768417391415"
+      ]
     },
     "user-1768417391415": {
       "id": "user-1768417391415",
@@ -68,6 +70,14 @@
     }
   ],
   "dms": [
+    {
+      "id": "dm-group-1768417614256",
+      "recipientIds": [
+        "user-1768417391415",
+        "user-1768417241825"
+      ],
+      "ownerId": "user-1768417391415"
+    },
     {
       "id": "dm-initial-1768417241825",
       "recipientIds": [
