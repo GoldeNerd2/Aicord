@@ -88,6 +88,16 @@
         "content": "Hello! How can I help you today? Feel free to ask me anything or let me know if you need help navigating the app!",
         "timestamp": 1768417263039
       }
+    ],
+    "chan-1768417276170": [
+      {
+        "id": "msg-1768417283268",
+        "channelId": "chan-1768417276170",
+        "authorId": "user-1768417241825",
+        "content": "hello",
+        "timestamp": 1768417283268,
+        "mentions": []
+      }
     ]
   },
   "games": [],
