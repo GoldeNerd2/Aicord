@@ -42,6 +42,21 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768417241828
+      },
+      {
+        "id": "msg-1768417261418",
+        "channelId": "dm-initial-1768417241825",
+        "authorId": "user-1768417241825",
+        "content": "hello",
+        "timestamp": 1768417261418,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768417263039",
+        "channelId": "dm-initial-1768417241825",
+        "authorId": "9999999999",
+        "content": "Hello! How can I help you today? Feel free to ask me anything or let me know if you need help navigating the app!",
+        "timestamp": 1768417263039
       }
     ]
   },
