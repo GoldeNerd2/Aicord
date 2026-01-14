@@ -20,10 +20,10 @@
       "avatar": "https://ui-avatars.com/api/?name=jiddo-123&background=random",
       "status": "online",
       "bannerColor": "#5865F2",
-      "friends": [],
-      "friendRequests": [
+      "friends": [
         "user-1768417391415"
-      ]
+      ],
+      "friendRequests": []
     },
     "user-1768417391415": {
       "id": "user-1768417391415",
@@ -34,7 +34,9 @@
       "avatar": "https://ui-avatars.com/api/?name=teta321&background=random",
       "status": "online",
       "bannerColor": "#5865F2",
-      "friends": [],
+      "friends": [
+        "user-1768417241825"
+      ],
       "friendRequests": []
     }
   },
@@ -71,19 +73,19 @@
   ],
   "dms": [
     {
+      "id": "dm-initial-1768417241825",
+      "recipientIds": [
+        "user-1768417241825",
+        "9999999999"
+      ]
+    },
+    {
       "id": "dm-group-1768417614256",
       "recipientIds": [
         "user-1768417391415",
         "user-1768417241825"
       ],
       "ownerId": "user-1768417391415"
-    },
-    {
-      "id": "dm-initial-1768417241825",
-      "recipientIds": [
-        "user-1768417241825",
-        "9999999999"
-      ]
     },
     {
       "id": "dm-initial-1768417391415",
@@ -135,6 +137,16 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768417391418
+      }
+    ],
+    "dm-group-1768417614256": [
+      {
+        "id": "msg-1768417717467",
+        "channelId": "dm-group-1768417614256",
+        "authorId": "user-1768417241825",
+        "content": "hello",
+        "timestamp": 1768417717467,
+        "mentions": []
       }
     ]
   },
