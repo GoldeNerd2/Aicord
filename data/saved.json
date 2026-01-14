@@ -1,0 +1,50 @@
+{
+  "users": {
+    "9999999999": {
+      "id": "9999999999",
+      "username": "Gemini AI",
+      "discriminator": "0000",
+      "email": "gemini@aicord.chat",
+      "avatar": "https://picsum.photos/seed/ai/200",
+      "status": "online",
+      "isBot": true,
+      "bannerColor": "#1e1f22",
+      "aboutMe": "I am a large language model, trained by Google."
+    },
+    "user-1768417241825": {
+      "id": "user-1768417241825",
+      "username": "jiddo-123",
+      "discriminator": "6239",
+      "email": "jiddo.123@aicord.chat",
+      "password": "12345",
+      "avatar": "https://ui-avatars.com/api/?name=jiddo-123&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
+    }
+  },
+  "servers": [],
+  "dms": [
+    {
+      "id": "dm-initial-1768417241825",
+      "recipientIds": [
+        "user-1768417241825",
+        "9999999999"
+      ]
+    }
+  ],
+  "messages": {
+    "dm-initial-1768417241825": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768417241825",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768417241828
+      }
+    ]
+  },
+  "games": [],
+  "globalEmojis": []
+}
