@@ -24,7 +24,37 @@
       "friendRequests": []
     }
   },
-  "servers": [],
+  "servers": [
+    {
+      "id": "server-1768417276170",
+      "name": "my awesome server",
+      "icon": "",
+      "ownerId": "user-1768417241825",
+      "isPublic": false,
+      "members": [
+        "user-1768417241825"
+      ],
+      "categories": [
+        {
+          "id": "cat-1768417276170",
+          "serverId": "server-1768417276170",
+          "name": "General"
+        }
+      ],
+      "channels": [
+        {
+          "id": "chan-1768417276170",
+          "serverId": "server-1768417276170",
+          "name": "general",
+          "type": "text",
+          "categoryId": "cat-1768417276170"
+        }
+      ],
+      "roles": [],
+      "memberRoles": {},
+      "inviteCode": "T5OGFPC0"
+    }
+  ],
   "dms": [
     {
       "id": "dm-initial-1768417241825",
