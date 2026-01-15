@@ -153,6 +153,27 @@
           "name": "general",
           "type": "text",
           "categoryId": "cat-1768489597572"
+        },
+        {
+          "id": "chan-1768489744312",
+          "serverId": "server-1768489597572",
+          "categoryId": "cat-1768489597572",
+          "name": "welcome-users",
+          "type": "text"
+        },
+        {
+          "id": "chan-1768489754489",
+          "serverId": "server-1768489597572",
+          "categoryId": "cat-1768489597572",
+          "name": "welcome-developers",
+          "type": "text"
+        },
+        {
+          "id": "chan-1768489778800",
+          "serverId": "server-1768489597572",
+          "categoryId": "cat-1768489597572",
+          "name": "memes",
+          "type": "text"
         }
       ],
       "roles": [],
