@@ -174,6 +174,13 @@
           "categoryId": "cat-1768489597572",
           "name": "memes",
           "type": "text"
+        },
+        {
+          "id": "chan-1768489784953",
+          "serverId": "server-1768489597572",
+          "categoryId": "cat-1768489597572",
+          "name": "dev",
+          "type": "text"
         }
       ],
       "roles": [],
