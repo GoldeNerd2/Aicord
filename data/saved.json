@@ -207,6 +207,14 @@
         "content": "assss",
         "timestamp": 1768498648400,
         "mentions": []
+      },
+      {
+        "id": "msg-fwd-1768500369928",
+        "channelId": "chan-1768495650015",
+        "authorId": "user-1768495598120",
+        "content": "hey",
+        "timestamp": 1768500369928,
+        "forwardedFrom": "Bob2015"
       }
     ],
     "dm-group-1768498594299": [
