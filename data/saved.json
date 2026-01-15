@@ -144,6 +144,11 @@
           "id": "cat-1768489597572",
           "serverId": "server-1768489597572",
           "name": "General"
+        },
+        {
+          "id": "cat-1768489802736",
+          "serverId": "server-1768489597572",
+          "name": "Updates"
         }
       ],
       "channels": [
