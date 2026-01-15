@@ -120,6 +120,21 @@
         "authorId": "9999999999",
         "content": "Hello! How can I help you today? Feel free to ask me anything or let me know if you need help navigating the app!",
         "timestamp": 1768417263039
+      },
+      {
+        "id": "msg-1768488020603",
+        "channelId": "dm-initial-1768417241825",
+        "authorId": "user-1768417241825",
+        "content": "can you help me with making a simple html code",
+        "timestamp": 1768488020603,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768488025049",
+        "channelId": "dm-initial-1768417241825",
+        "authorId": "9999999999",
+        "content": "Sure! Here is a basic template for a simple HTML page:\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>My Simple Page</title>\n</head>\n<body>\n    <h1>Hello World!</h1>\n    <p>This is a simple paragraph in my HTML document.</p>\n</body>\n</html>\n```\n\n### Quick Breakdown:\n*   `<!DOCTYPE html>`: Tells the browser this is an HTML5 document.\n*   `<html>`: The root container for the whole page.\n*   `<head>`: Contains metadata and the page title.\n*   `<body>`: Where all your visible content (text, images, links) goes.\n*   `<h1>` and `<p>`: A main heading and a paragraph, respectively.\n\nLet me know if you want to add anything specific like a button or an image!",
+        "timestamp": 1768488025049
       }
     ],
     "chan-1768417276170": [
@@ -196,6 +211,20 @@
         "authorId": "user-1768417241825",
         "content": "what",
         "timestamp": 1768487755103,
+        "mentions": []
+      },
+      {
+        "id": "msg-1768488460697",
+        "channelId": "dm-group-1768417614256",
+        "authorId": "user-1768417241825",
+        "content": "",
+        "timestamp": 1768488460697,
+        "invite": {
+          "serverId": "server-1768417276170",
+          "serverName": "my awesome server",
+          "serverIcon": "",
+          "inviterId": "user-1768417241825"
+        },
         "mentions": []
       }
     ]
