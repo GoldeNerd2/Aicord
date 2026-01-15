@@ -220,6 +220,14 @@
         "content": "hmph",
         "timestamp": 1768505945397,
         "mentions": []
+      },
+      {
+        "id": "msg-1768506013523",
+        "channelId": "dm-1768505871833",
+        "authorId": "user-1768505854203",
+        "content": "||SPOILER||",
+        "timestamp": 1768506013523,
+        "mentions": []
       }
     ]
   },
