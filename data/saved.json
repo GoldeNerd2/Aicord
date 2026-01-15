@@ -44,6 +44,74 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768504937027
+      },
+      {
+        "id": "msg-1768505246701",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "hi [color=#ef4444]these [/color][color=#eab308]are [/color][color=#eab308]color tests[/color]",
+        "timestamp": 1768505246701,
+        "mentions": []
+      },
+      {
+        "id": "msg-1768505260867",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "aloo?",
+        "timestamp": 1768505260867,
+        "mentions": []
+      },
+      {
+        "id": "msg-1768505265628",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "hi",
+        "timestamp": 1768505265628,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768505272149",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "Hi there! I see you're testing out some BBCode color tags. While I can't \"see\" the colors visually, I can certainly read the tags!\n\nHow can I help you with your Discord Clone today?",
+        "timestamp": 1768505272149
+      },
+      {
+        "id": "msg-ai-1768505274248",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "Hi there! Nice color tests. 🎨\n\nJust a heads-up: standard Markdown doesn't support those `[color]` tags directly, but I can help you with **bold**, *italics*, and `code` formatting!\n\nHow can I help you today?",
+        "timestamp": 1768505274248
+      },
+      {
+        "id": "msg-ai-1768505275701",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "Hi! I see those color tags. It looks like you're testing out some custom formatting! \n\nHow can I help you with the app today?",
+        "timestamp": 1768505275701
+      },
+      {
+        "id": "msg-1768505392518",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "eh sorry for these many messages.. and also these colors actually work on my ui since this is a discord clone made by me 😎",
+        "timestamp": 1768505392518,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768505396022",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "No need to apologize! That’s actually a very cool feature to implement. 🎨 Custom BBCode support makes a chat UI feel much more professional and customizable. \n\nNice work on the build! What are you planning to add next? 😎",
+        "timestamp": 1768505396022
+      },
+      {
+        "id": "msg-1768505445802",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "can we talk a little? i still dont have friends on it. so i have just you.",
+        "timestamp": 1768505445802,
+        "mentions": []
       }
     ]
   },
