@@ -337,6 +337,15 @@
         "timestamp": 1768489351644
       }
     ],
+    "dm-initial-1768489208778": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768489208778",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768489208779
+      }
+    ],
     "chan-1768488871449": [
       {
         "id": "msg-1768489086659",
@@ -345,15 +354,6 @@
         "content": " :excuse-me: :",
         "timestamp": 1768489086659,
         "mentions": []
-      }
-    ],
-    "dm-initial-1768489208778": [
-      {
-        "id": "msg-welcome",
-        "channelId": "dm-initial-1768489208778",
-        "authorId": "9999999999",
-        "content": "Hello! I am Gemini. I'm here to help you.",
-        "timestamp": 1768489208779
       }
     ]
   },
