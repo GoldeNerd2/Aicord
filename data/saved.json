@@ -40,6 +40,18 @@
         "user-1768417241825"
       ],
       "friendRequests": []
+    },
+    "user-1768488767529": {
+      "id": "user-1768488767529",
+      "username": "Bob2015",
+      "discriminator": "5629",
+      "email": "bob2015@messenger.hotmail.com",
+      "password": "12700Ui",
+      "avatar": "https://ui-avatars.com/api/?name=Bob2015&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [
@@ -93,6 +105,13 @@
       "id": "dm-initial-1768417391415",
       "recipientIds": [
         "user-1768417391415",
+        "9999999999"
+      ]
+    },
+    {
+      "id": "dm-initial-1768488767529",
+      "recipientIds": [
+        "user-1768488767529",
         "9999999999"
       ]
     }
@@ -242,6 +261,15 @@
           "inviterId": "user-1768417241825"
         },
         "mentions": []
+      }
+    ],
+    "dm-initial-1768488767529": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768488767529",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768488767530
       }
     ]
   },
