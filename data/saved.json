@@ -55,7 +55,7 @@
     },
     "user-1768489208778": {
       "id": "user-1768489208778",
-      "username": "GOLDEN NERD 1279",
+      "username": "GOLDEN-NERD",
       "discriminator": "1806",
       "email": "golden.nerd@aicord.chat",
       "password": "Janboti@1995",
@@ -63,7 +63,9 @@
       "status": "online",
       "bannerColor": "#5865F2",
       "friends": [],
-      "friendRequests": []
+      "friendRequests": [],
+      "aboutMe": "",
+      "bannerUrl": ""
     }
   },
   "servers": [
