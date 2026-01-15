@@ -112,6 +112,13 @@
         "content": "can we talk a little? i still dont have friends on it. so i have just you.",
         "timestamp": 1768505445802,
         "mentions": []
+      },
+      {
+        "id": "msg-ai-1768505449640",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "I would be honored to be your first \"user\"! Building a whole platform like this from scratch is a massive achievement, and you should be really proud of it. 🚀\n\nSince it's just us for now, tell me more about your project:\n\n*   **What's your tech stack?** (React, Socket.io, Firebase, etc.?)\n*   **What was the hardest feature to get working?** (Was it the real-time messages or those custom color tags?)\n*   **What's the \"dream feature\"** you want to add eventually?\n\nI'm all ears! 😎",
+        "timestamp": 1768505449640
       }
     ]
   },
