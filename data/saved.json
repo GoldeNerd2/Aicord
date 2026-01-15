@@ -320,6 +320,21 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768488767530
+      },
+      {
+        "id": "msg-1768489348588",
+        "channelId": "dm-initial-1768488767529",
+        "authorId": "user-1768488767529",
+        "content": " :excuse-me: ",
+        "timestamp": 1768489348588,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768489351644",
+        "channelId": "dm-initial-1768488767529",
+        "authorId": "9999999999",
+        "content": "**Yes? How can I help you?** 🙋‍♂️",
+        "timestamp": 1768489351644
       }
     ],
     "chan-1768488871449": [
