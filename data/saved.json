@@ -1,0 +1,20 @@
+{
+  "users": {
+    "9999999999": {
+      "id": "9999999999",
+      "username": "Gemini AI",
+      "discriminator": "0000",
+      "email": "gemini@aicord.chat",
+      "avatar": "https://picsum.photos/seed/ai/200",
+      "status": "online",
+      "isBot": true,
+      "bannerColor": "#1e1f22",
+      "aboutMe": "I am a large language model, trained by Google."
+    }
+  },
+  "servers": [],
+  "dms": [],
+  "messages": {},
+  "games": [],
+  "globalEmojis": []
+}
