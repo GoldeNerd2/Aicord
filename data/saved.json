@@ -146,6 +146,14 @@
         "content": "hello",
         "timestamp": 1768417283268,
         "mentions": []
+      },
+      {
+        "id": "msg-1768488481226",
+        "channelId": "chan-1768417276170",
+        "authorId": "user-1768417391415",
+        "content": "hi",
+        "timestamp": 1768488481226,
+        "mentions": []
       }
     ],
     "dm-initial-1768417391415": [
