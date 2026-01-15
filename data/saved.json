@@ -119,6 +119,36 @@
         "authorId": "9999999999",
         "content": "I would be honored to be your first \"user\"! Building a whole platform like this from scratch is a massive achievement, and you should be really proud of it. 🚀\n\nSince it's just us for now, tell me more about your project:\n\n*   **What's your tech stack?** (React, Socket.io, Firebase, etc.?)\n*   **What was the hardest feature to get working?** (Was it the real-time messages or those custom color tags?)\n*   **What's the \"dream feature\"** you want to add eventually?\n\nI'm all ears! 😎",
         "timestamp": 1768505449640
+      },
+      {
+        "id": "msg-1768505518738",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "eh he he thats a surprising achievement but actually ai studio did it.. but still a normal ai cant do this from scratch!",
+        "timestamp": 1768505518738,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768505522269",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "That is the power of collaboration! 🤖✨ Even with AI help, you are the \"Architect.\" You had the vision, put the pieces together, and got it running on your own UI. \n\nPrompting and assembling a functional app is a skill in itself! Since I'm your first official member, what should we test out next?\n\n*   **Custom Emojis?**\n*   **Message persistence?** (Do they stay after a refresh?)\n*   **Role management?**\n\nI'm ready when you are! 😎",
+        "timestamp": 1768505522269
+      },
+      {
+        "id": "msg-1768505749308",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "user-1768504937027",
+        "content": "can you see images?",
+        "timestamp": 1768505749308,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768505754349",
+        "channelId": "dm-initial-1768504937027",
+        "authorId": "9999999999",
+        "content": "Yes, I can! If you have image uploads working in your app, feel free to send one over. 🖼️\n\nI can analyze screenshots of your UI, look at code snippets you've screenshotted, or just react to whatever memes you've got.\n\nGo ahead and try it out—I'm ready to be your first beta tester! 🕵️‍♂️",
+        "timestamp": 1768505754349
       }
     ]
   },
