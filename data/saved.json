@@ -73,14 +73,6 @@
   ],
   "dms": [
     {
-      "id": "dm-group-1768417614256",
-      "recipientIds": [
-        "user-1768417391415",
-        "user-1768417241825"
-      ],
-      "ownerId": "user-1768417391415"
-    },
-    {
       "id": "dm-initial-1768417241825",
       "recipientIds": [
         "user-1768417241825",
@@ -93,6 +85,14 @@
         "user-1768417391415",
         "9999999999"
       ]
+    },
+    {
+      "id": "dm-group-1768417614256",
+      "recipientIds": [
+        "user-1768417391415",
+        "user-1768417241825"
+      ],
+      "ownerId": "user-1768417391415"
     }
   ],
   "messages": {
@@ -162,14 +162,6 @@
         "authorId": "user-1768417241825",
         "content": "soo, what m'teta?",
         "timestamp": 1768485989877,
-        "mentions": []
-      },
-      {
-        "id": "msg-1768486005314",
-        "channelId": "dm-group-1768417614256",
-        "authorId": "user-1768417391415",
-        "content": "ok??",
-        "timestamp": 1768486005314,
         "mentions": []
       }
     ]
