@@ -66,7 +66,14 @@
           "categoryId": "cat-1768506036583"
         }
       ],
-      "roles": [],
+      "roles": [
+        {
+          "id": "role-1768506052509",
+          "name": "Nerd",
+          "color": "#ffff00",
+          "isAdmin": true
+        }
+      ],
       "memberRoles": {},
       "inviteCode": "GCL885E3",
       "adminIds": []
