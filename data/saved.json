@@ -52,6 +52,18 @@
       "bannerColor": "#5865F2",
       "friends": [],
       "friendRequests": []
+    },
+    "user-1768489208778": {
+      "id": "user-1768489208778",
+      "username": "GOLDEN NERD 1279",
+      "discriminator": "1806",
+      "email": "golden.nerd@aicord.chat",
+      "password": "Janboti@1995",
+      "avatar": "https://ui-avatars.com/api/?name=GOLDEN NERD 1279&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [
@@ -112,6 +124,13 @@
       "id": "dm-initial-1768488767529",
       "recipientIds": [
         "user-1768488767529",
+        "9999999999"
+      ]
+    },
+    {
+      "id": "dm-initial-1768489208778",
+      "recipientIds": [
+        "user-1768489208778",
         "9999999999"
       ]
     }
@@ -270,6 +289,15 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768488767530
+      }
+    ],
+    "dm-initial-1768489208778": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768489208778",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768489208779
       }
     ]
   },
