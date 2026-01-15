@@ -21,7 +21,9 @@
       "status": "online",
       "bannerColor": "#b5cd7c",
       "friends": [],
-      "friendRequests": [],
+      "friendRequests": [
+        "user-1768496977535"
+      ],
       "aboutMe": "Just a fifth philosophic nerd who studies at a school that OCCUPIES it Cognia.",
       "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg"
     },
@@ -85,6 +87,22 @@
     }
   ],
   "dms": [
+    {
+      "id": "dm-group-1768498630739",
+      "recipientIds": [
+        "user-1768496977535",
+        "user-1768495598120"
+      ],
+      "ownerId": "user-1768496977535"
+    },
+    {
+      "id": "dm-group-1768498594299",
+      "recipientIds": [
+        "user-1768496977535",
+        "user-1768495598120"
+      ],
+      "ownerId": "user-1768496977535"
+    },
     {
       "id": "dm-initial-1768495526127",
       "recipientIds": [
