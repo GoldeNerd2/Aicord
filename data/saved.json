@@ -60,7 +60,8 @@
       "ownerId": "user-1768495598120",
       "isPublic": true,
       "members": [
-        "user-1768495598120"
+        "user-1768495598120",
+        "user-1768496977535"
       ],
       "categories": [
         {
@@ -162,6 +163,16 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768497740158
+      }
+    ],
+    "chan-1768495650015": [
+      {
+        "id": "msg-1768497839632",
+        "channelId": "chan-1768495650015",
+        "authorId": "user-1768496977535",
+        "content": "hey",
+        "timestamp": 1768497839632,
+        "mentions": []
       }
     ]
   },
