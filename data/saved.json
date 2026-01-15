@@ -173,6 +173,14 @@
         "content": "hey",
         "timestamp": 1768497839632,
         "mentions": []
+      },
+      {
+        "id": "msg-1768497910563",
+        "channelId": "chan-1768495650015",
+        "authorId": "user-1768495598120",
+        "content": "hello",
+        "timestamp": 1768497910563,
+        "mentions": []
       }
     ]
   },
