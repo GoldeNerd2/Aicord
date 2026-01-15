@@ -24,6 +24,18 @@
       "friendRequests": [],
       "aboutMe": "A fifth philosophic nerd who studies at a school that OCCUPIES it Cognia...",
       "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg"
+    },
+    "user-1768505854203": {
+      "id": "user-1768505854203",
+      "username": "Bob2015",
+      "discriminator": "7886",
+      "email": "Bob2015@messenger.hotmail.com",
+      "password": "12700Ui",
+      "avatar": "https://ui-avatars.com/api/?name=Bob2015&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [],
@@ -32,6 +44,13 @@
       "id": "dm-initial-1768504937027",
       "recipientIds": [
         "user-1768504937027",
+        "9999999999"
+      ]
+    },
+    {
+      "id": "dm-initial-1768505854203",
+      "recipientIds": [
+        "user-1768505854203",
         "9999999999"
       ]
     }
@@ -149,6 +168,15 @@
         "authorId": "9999999999",
         "content": "Yes, I can! If you have image uploads working in your app, feel free to send one over. 🖼️\n\nI can analyze screenshots of your UI, look at code snippets you've screenshotted, or just react to whatever memes you've got.\n\nGo ahead and try it out—I'm ready to be your first beta tester! 🕵️‍♂️",
         "timestamp": 1768505754349
+      }
+    ],
+    "dm-initial-1768505854203": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768505854203",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768505854204
       }
     ]
   },
