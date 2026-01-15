@@ -185,6 +185,16 @@
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768505854204
       }
+    ],
+    "dm-1768505871833": [
+      {
+        "id": "msg-1768505885564",
+        "channelId": "dm-1768505871833",
+        "authorId": "user-1768504937027",
+        "content": "hi",
+        "timestamp": 1768505885564,
+        "mentions": []
+      }
     ]
   },
   "games": [],
