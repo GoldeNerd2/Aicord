@@ -38,6 +38,18 @@
       "friendRequests": [],
       "aboutMe": "",
       "bannerUrl": ""
+    },
+    "user-1768497740158": {
+      "id": "user-1768497740158",
+      "username": "Bob2015",
+      "discriminator": "4202",
+      "email": "Bob2015@messenger.hotmail.com",
+      "password": "12700Ui",
+      "avatar": "https://ui-avatars.com/api/?name=Bob2015&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [
@@ -83,6 +95,13 @@
       "id": "dm-initial-1768495598120",
       "recipientIds": [
         "user-1768495598120",
+        "9999999999"
+      ]
+    },
+    {
+      "id": "dm-initial-1768497740158",
+      "recipientIds": [
+        "user-1768497740158",
         "9999999999"
       ]
     }
@@ -134,6 +153,15 @@
         "authorId": "9999999999",
         "content": "It is actually both! Vatican City is a **city-state**.\n\nHere is why it counts as a country:\n*   **Sovereignty:** It gained independence from Italy in 1929 via the **Lateran Treaty**.\n*   **Government:** It has its own monarch (the Pope), laws, and judicial system.\n*   **Infrastructure:** It issues its own passports, coins (Euros with their own design), and stamps.\n*   **Military:** It is protected by its own security force, the **Swiss Guard**.\n\nWhile it's the smallest by both area and population, it is officially recognized as a sovereign nation.",
         "timestamp": 1768497130776
+      }
+    ],
+    "dm-initial-1768497740158": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768497740158",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768497740158
       }
     ]
   },
