@@ -24,6 +24,18 @@
       "friendRequests": [],
       "aboutMe": "Just a philosophic fifth nerd who studies at a school OCCUPIES it Cognia.. known as the developer of everything.",
       "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg"
+    },
+    "user-1768580166081": {
+      "id": "user-1768580166081",
+      "username": "Bob2015",
+      "discriminator": "1790",
+      "email": "Bob2015@messenger.hotmail.com",
+      "password": "12700Ui",
+      "avatar": "https://ui-avatars.com/api/?name=Bob2015&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [],
@@ -32,6 +44,13 @@
       "id": "dm-initial-1768578781736",
       "recipientIds": [
         "user-1768578781735",
+        "9999999999"
+      ]
+    },
+    {
+      "id": "dm-initial-1768580166081",
+      "recipientIds": [
+        "user-1768580166081",
         "9999999999"
       ]
     }
@@ -44,6 +63,15 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768578781736
+      }
+    ],
+    "dm-initial-1768580166081": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768580166081",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768580166082
       }
     ]
   },
