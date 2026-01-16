@@ -10,11 +10,41 @@
       "isBot": true,
       "bannerColor": "#1e1f22",
       "aboutMe": "I am a large language model, trained by Google."
+    },
+    "user-1768578781735": {
+      "id": "user-1768578781735",
+      "username": "GOLDEN-NERD",
+      "discriminator": "4963",
+      "email": "golden.nerd@aicord.chat",
+      "password": "Janboti@1995",
+      "avatar": "https://ui-avatars.com/api/?name=GOLDEN-NERD&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [],
-  "dms": [],
-  "messages": {},
+  "dms": [
+    {
+      "id": "dm-initial-1768578781736",
+      "recipientIds": [
+        "user-1768578781735",
+        "9999999999"
+      ]
+    }
+  ],
+  "messages": {
+    "dm-initial-1768578781736": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768578781736
+      }
+    ]
+  },
   "games": [],
   "globalEmojis": []
 }
