@@ -45,11 +45,13 @@
       "discriminator": "7048",
       "email": "johndoe@aicord.chat",
       "password": "ShellydeKiller",
-      "avatar": "https://ui-avatars.com/api/?name=Buttler2nd&background=random",
+      "avatar": "https://static.wikia.nocookie.net/aceattorney/images/d/d6/Shelly_de_Killer_portrait_JFA.png/revision/latest?cb=20240529172909",
       "status": "online",
       "bannerColor": "#5865F2",
       "friends": [],
-      "friendRequests": []
+      "friendRequests": [],
+      "aboutMe": "",
+      "bannerUrl": ""
     }
   },
   "servers": [
@@ -85,6 +87,15 @@
     }
   ],
   "dms": [
+    {
+      "id": "dm-group-1768580694876",
+      "recipientIds": [
+        "user-1768580673591",
+        "user-1768578781735",
+        "user-1768580166081"
+      ],
+      "ownerId": "user-1768580673591"
+    },
     {
       "id": "dm-1768580274092",
       "recipientIds": [
