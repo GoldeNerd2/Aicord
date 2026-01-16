@@ -103,6 +103,14 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768578781736
+      },
+      {
+        "id": "msg-1768580433439",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "user-1768578781735",
+        "content": "hii",
+        "timestamp": 1768580433439,
+        "mentions": []
       }
     ],
     "dm-initial-1768580166081": [
