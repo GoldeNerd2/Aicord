@@ -41,7 +41,15 @@
     }
   },
   "servers": [],
-  "dms": [],
+  "dms": [
+    {
+      "id": "dm-1768578469059",
+      "recipientIds": [
+        "user-1768505854203",
+        "user-1768504937027"
+      ]
+    }
+  ],
   "messages": {},
   "games": [],
   "globalEmojis": []
