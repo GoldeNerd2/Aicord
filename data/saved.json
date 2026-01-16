@@ -50,7 +50,18 @@
       ]
     }
   ],
-  "messages": {},
+  "messages": {
+    "dm-1768578469059": [
+      {
+        "id": "msg-1768578472001",
+        "channelId": "dm-1768578469059",
+        "authorId": "user-1768505854203",
+        "content": "hey",
+        "timestamp": 1768578472001,
+        "mentions": []
+      }
+    ]
+  },
   "games": [],
   "globalEmojis": []
 }
