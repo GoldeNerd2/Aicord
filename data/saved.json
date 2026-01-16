@@ -38,6 +38,18 @@
       "friendRequests": [],
       "aboutMe": "",
       "bannerUrl": ""
+    },
+    "user-1768580673591": {
+      "id": "user-1768580673591",
+      "username": "Buttler2nd",
+      "discriminator": "7048",
+      "email": "johndoe@aicord.chat",
+      "password": "ShellydeKiller",
+      "avatar": "https://ui-avatars.com/api/?name=Buttler2nd&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": []
     }
   },
   "servers": [
@@ -93,6 +105,13 @@
         "user-1768580166081",
         "9999999999"
       ]
+    },
+    {
+      "id": "dm-initial-1768580673591",
+      "recipientIds": [
+        "user-1768580673591",
+        "9999999999"
+      ]
     }
   ],
   "messages": {
@@ -142,6 +161,15 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768580166082
+      }
+    ],
+    "dm-initial-1768580673591": [
+      {
+        "id": "msg-welcome",
+        "channelId": "dm-initial-1768580673591",
+        "authorId": "9999999999",
+        "content": "Hello! I am Gemini. I'm here to help you.",
+        "timestamp": 1768580673591
       }
     ]
   },
