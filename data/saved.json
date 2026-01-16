@@ -197,6 +197,15 @@
         "timestamp": 1768580875205,
         "mentions": [],
         "isEdited": true
+      },
+      {
+        "id": "msg-1768581058807",
+        "channelId": "dm-1768580765325",
+        "authorId": "user-1768578781735",
+        "content": "oh ho ho... sure NO",
+        "timestamp": 1768581058807,
+        "mentions": [],
+        "replyToId": "msg-1768580875205"
       }
     ],
     "dm-1768580274092": [
