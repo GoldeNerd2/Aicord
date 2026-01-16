@@ -43,6 +43,13 @@
   "servers": [],
   "dms": [
     {
+      "id": "dm-1768580274092",
+      "recipientIds": [
+        "user-1768580166081",
+        "user-1768578781735"
+      ]
+    },
+    {
       "id": "dm-initial-1768578781736",
       "recipientIds": [
         "user-1768578781735",
