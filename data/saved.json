@@ -255,6 +255,21 @@
         "authorId": "9999999999",
         "content": "Hello! I am Gemini. I'm here to help you.",
         "timestamp": 1768505854204
+      },
+      {
+        "id": "msg-1768578296019",
+        "channelId": "dm-initial-1768505854203",
+        "authorId": "user-1768505854203",
+        "content": "no one asked'",
+        "timestamp": 1768578296019,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768578303615",
+        "channelId": "dm-initial-1768505854203",
+        "authorId": "9999999999",
+        "content": "Fair enough! I'll be here in the background if you ever actually need anything. 🫡",
+        "timestamp": 1768578303615
       }
     ],
     "dm-1768505871833": [
