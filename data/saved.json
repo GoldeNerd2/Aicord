@@ -111,6 +111,13 @@
         "content": "hii",
         "timestamp": 1768580433439,
         "mentions": []
+      },
+      {
+        "id": "msg-ai-1768580439769",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "9999999999",
+        "content": "Hello! How can I help you today? 👋",
+        "timestamp": 1768580439769
       }
     ],
     "dm-initial-1768580166081": [
