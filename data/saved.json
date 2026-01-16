@@ -118,6 +118,21 @@
         "authorId": "9999999999",
         "content": "Hello! How can I help you today? 👋",
         "timestamp": 1768580439769
+      },
+      {
+        "id": "msg-1768580446732",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "user-1768578781735",
+        "content": "soo",
+        "timestamp": 1768580446732,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768580449521",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "9999999999",
+        "content": "So... what's on your mind? \n\nWhether you need help with the app, have a question, or just want to chat, I'm all ears! 👂",
+        "timestamp": 1768580449521
       }
     ],
     "dm-initial-1768580166081": [
