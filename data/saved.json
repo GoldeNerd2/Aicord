@@ -79,6 +79,13 @@
           "name": "general",
           "type": "text",
           "categoryId": "cat-1768580313084"
+        },
+        {
+          "id": "chan-1768648804782",
+          "serverId": "server-1768580313084",
+          "categoryId": "cat-1768580313084",
+          "name": "wert",
+          "type": "announcement"
         }
       ],
       "roles": [
