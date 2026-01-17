@@ -103,6 +103,36 @@
       },
       "inviteCode": "06HKCTWR",
       "adminIds": []
+    },
+    {
+      "id": "server-1768648820030",
+      "name": "erttttttttt",
+      "icon": "",
+      "ownerId": "user-1768578781735",
+      "isPublic": false,
+      "members": [
+        "user-1768578781735"
+      ],
+      "categories": [
+        {
+          "id": "cat-1768648820030",
+          "serverId": "server-1768648820030",
+          "name": "General"
+        }
+      ],
+      "channels": [
+        {
+          "id": "chan-1768648820030",
+          "serverId": "server-1768648820030",
+          "name": "general",
+          "type": "text",
+          "categoryId": "cat-1768648820030"
+        }
+      ],
+      "roles": [],
+      "memberRoles": {},
+      "inviteCode": "1XLKKXWV",
+      "adminIds": []
     }
   ],
   "dms": [
