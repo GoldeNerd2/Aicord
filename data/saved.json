@@ -127,6 +127,13 @@
           "name": "general",
           "type": "text",
           "categoryId": "cat-1768648820030"
+        },
+        {
+          "id": "chan-1768648827567",
+          "serverId": "server-1768648820030",
+          "categoryId": "cat-1768648820030",
+          "name": "er",
+          "type": "announcement"
         }
       ],
       "roles": [],
