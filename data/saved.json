@@ -25,8 +25,8 @@
       "aboutMe": "Just a philosophic fifth nerd who studies at a school OCCUPIES it Cognia.. known as the developer of everything.",
       "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg",
       "readStates": {
-        "dm-initial-1768578781736": 1768931623874,
-        "dm-1768580274092": 1768931621755,
+        "dm-initial-1768578781736": 1768932152078,
+        "dm-1768580274092": 1768932147063,
         "dm-1768580765325": 1768931721691
       }
     },
@@ -259,6 +259,21 @@
         "authorId": "9999999999",
         "content": "So... what's on your mind? \n\nWhether you need help with the app, have a question, or just want to chat, I'm all ears! 👂",
         "timestamp": 1768580449521
+      },
+      {
+        "id": "msg-1768932145982",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "user-1768578781735",
+        "content": "tyui",
+        "timestamp": 1768932145982,
+        "mentions": []
+      },
+      {
+        "id": "msg-ai-1768932153224",
+        "channelId": "dm-initial-1768578781736",
+        "authorId": "9999999999",
+        "content": "Looks like some keyboard testing! ⌨️ \n\nIs there anything specific you need help with, or are you just checking if the chat works? I'm here if you need me!",
+        "timestamp": 1768932153224
       }
     ],
     "dm-initial-1768580166081": [
