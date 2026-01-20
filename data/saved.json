@@ -23,7 +23,12 @@
       "friends": [],
       "friendRequests": [],
       "aboutMe": "Just a philosophic fifth nerd who studies at a school OCCUPIES it Cognia.. known as the developer of everything.",
-      "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg"
+      "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg",
+      "readStates": {
+        "dm-initial-1768578781736": 1768931623874,
+        "dm-1768580274092": 1768931621755,
+        "dm-1768580765325": 1768931623291
+      }
     },
     "user-1768580166081": {
       "id": "user-1768580166081",
