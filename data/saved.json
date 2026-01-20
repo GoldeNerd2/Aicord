@@ -63,6 +63,21 @@
         "dm-1768580765325": 1768931685769,
         "dm-group-1768585049883": 1768931686153
       }
+    },
+    "user-1768931287450": {
+      "id": "user-1768931287450",
+      "username": "AboAnasAdam",
+      "discriminator": "5331",
+      "email": "abo.anas.adam@aicord.chat",
+      "password": "Mypassword@3259",
+      "avatar": "https://ui-avatars.com/api/?name=AboAnasAdam&background=random",
+      "status": "online",
+      "bannerColor": "#5865F2",
+      "friends": [],
+      "friendRequests": [],
+      "readStates": {
+        "dm-initial-1768931287450": 1768931290928
+      }
     }
   },
   "servers": [
