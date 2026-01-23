@@ -79,7 +79,7 @@
       "friendRequests": [],
       "readStates": {
         "dm-initial-1768931287450": 1768931290928,
-        "dm-1769189593589": 1769189615438
+        "dm-1769189593589": 1769189843777
       }
     }
   },
@@ -418,6 +418,15 @@
         "authorId": "user-1768578781735",
         "content": "hi",
         "timestamp": 1769189688627,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769189843777",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "Discord is good",
+        "timestamp": 1769189843777,
         "mentions": [],
         "isSystem": false
       }
