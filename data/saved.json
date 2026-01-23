@@ -460,15 +460,6 @@
         "isSystem": false
       },
       {
-        "id": "msg-1769189976216",
-        "channelId": "dm-1769189593589",
-        "authorId": "user-1768931287450",
-        "content": "****",
-        "timestamp": 1769189976216,
-        "mentions": [],
-        "isSystem": false
-      },
-      {
         "id": "msg-1769189978414",
         "channelId": "dm-1769189593589",
         "authorId": "user-1768931287450",
