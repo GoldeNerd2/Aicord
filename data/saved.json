@@ -25,10 +25,11 @@
       "aboutMe": "Just a philosophic fifth nerd who studies at a school OCCUPIES it Cognia.. known as the developer of everything.",
       "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg",
       "readStates": {
-        "dm-initial-1768578781736": 1768932152078,
+        "dm-initial-1768578781736": 1769189682756,
         "dm-1768580274092": 1768932147063,
         "dm-1768580765325": 1768931721691,
-        "dm-1769189593589": 1769189646883
+        "dm-1769189593589": 1769189738715,
+        "dm-group-1768585049883": 1769189738324
       }
     },
     "user-1768580166081": {
@@ -408,6 +409,15 @@
         "authorId": "user-1768931287450",
         "content": "Hello",
         "timestamp": 1769189615438,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769189688627",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768578781735",
+        "content": "hi",
+        "timestamp": 1769189688627,
         "mentions": [],
         "isSystem": false
       }
