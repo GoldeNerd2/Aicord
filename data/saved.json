@@ -82,7 +82,7 @@
       "friendRequests": [],
       "readStates": {
         "dm-initial-1768931287450": 1768931290928,
-        "dm-1769189593589": 1769190391489
+        "dm-1769189593589": 1769190396486
       }
     }
   },
@@ -520,6 +520,60 @@
         "authorId": "user-1768931287450",
         "content": "G",
         "timestamp": 1769190391489,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769190392705",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "Gi",
+        "timestamp": 1769190392705,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769190393287",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "U",
+        "timestamp": 1769190393287,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769190394486",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "By.h",
+        "timestamp": 1769190394486,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769190395170",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "H",
+        "timestamp": 1769190395170,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769190395903",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "H",
+        "timestamp": 1769190395903,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769190396486",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "N",
+        "timestamp": 1769190396486,
         "mentions": [],
         "isSystem": false
       }
