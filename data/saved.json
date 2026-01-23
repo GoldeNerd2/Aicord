@@ -79,7 +79,7 @@
       "friendRequests": [],
       "readStates": {
         "dm-initial-1768931287450": 1768931290928,
-        "dm-1769189593589": 1769189923043
+        "dm-1769189593589": 1769189974150
       }
     }
   },
@@ -427,6 +427,33 @@
         "authorId": "user-1768931287450",
         "content": "Discord is good",
         "timestamp": 1769189843777,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769189965925",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "****",
+        "timestamp": 1769189965925,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769189970753",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "****",
+        "timestamp": 1769189970753,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769189974150",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "***",
+        "timestamp": 1769189974150,
         "mentions": [],
         "isSystem": false
       }
