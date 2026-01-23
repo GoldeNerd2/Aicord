@@ -449,15 +449,6 @@
         "timestamp": 1769189978414,
         "mentions": [],
         "isSystem": false
-      },
-      {
-        "id": "msg-1769189983860",
-        "channelId": "dm-1769189593589",
-        "authorId": "user-1768931287450",
-        "content": "**",
-        "timestamp": 1769189983860,
-        "mentions": [],
-        "isSystem": false
       }
     ]
   },
