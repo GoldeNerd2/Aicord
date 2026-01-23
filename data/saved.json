@@ -77,7 +77,7 @@
       "friendRequests": [],
       "readStates": {
         "dm-initial-1768931287450": 1768931290928,
-        "dm-1769189593589": 1769189596153
+        "dm-1769189593589": 1769189615438
       }
     }
   },
@@ -398,6 +398,17 @@
         "content": "```yi```",
         "timestamp": 1768649030737,
         "mentions": []
+      }
+    ],
+    "dm-1769189593589": [
+      {
+        "id": "msg-1769189615438",
+        "channelId": "dm-1769189593589",
+        "authorId": "user-1768931287450",
+        "content": "Hello",
+        "timestamp": 1769189615438,
+        "mentions": [],
+        "isSystem": false
       }
     ]
   },
