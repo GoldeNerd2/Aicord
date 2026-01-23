@@ -442,24 +442,6 @@
         "isSystem": false
       },
       {
-        "id": "msg-1769189970753",
-        "channelId": "dm-1769189593589",
-        "authorId": "user-1768931287450",
-        "content": "****",
-        "timestamp": 1769189970753,
-        "mentions": [],
-        "isSystem": false
-      },
-      {
-        "id": "msg-1769189974150",
-        "channelId": "dm-1769189593589",
-        "authorId": "user-1768931287450",
-        "content": "***",
-        "timestamp": 1769189974150,
-        "mentions": [],
-        "isSystem": false
-      },
-      {
         "id": "msg-1769189978414",
         "channelId": "dm-1769189593589",
         "authorId": "user-1768931287450",
