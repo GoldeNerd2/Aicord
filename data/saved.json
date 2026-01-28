@@ -78,14 +78,14 @@
       "email": "abo.anas.adam@aicord.chat",
       "password": "Mypassword@3259",
       "avatar": "https://ui-avatars.com/api/?name=AboAnasAdam&background=random",
-      "status": "online",
+      "status": "idle",
       "bannerColor": "#5865F2",
       "friends": [],
       "friendRequests": [],
       "readStates": {
         "dm-initial-1768931287450": 1768931290928,
         "dm-1769189593589": 1769190396486,
-        "dm-1769190463508": 1769621745373
+        "dm-1769190463508": 1769621843126
       }
     }
   },
