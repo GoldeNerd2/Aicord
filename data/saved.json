@@ -26,7 +26,7 @@
       "bannerUrl": "https://t4.ftcdn.net/jpg/05/08/10/35/360_F_508103535_BvW4uJs6MKlAVrRPSwGJ1Y36t5pw0EvD.jpg",
       "readStates": {
         "dm-initial-1768578781736": 1769791132267,
-        "dm-1768580274092": 1769791132891,
+        "dm-1768580274092": 1769791154769,
         "dm-1768580765325": 1769790970258,
         "dm-1769189593589": 1769190347488,
         "dm-group-1768585049883": 1769790969922,
@@ -346,6 +346,24 @@
         "authorId": "user-1768578781735",
         "content": "fr fr skull emoji 💀💀💀💀💀💀💀💀",
         "timestamp": 1769622854702,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769791135800-8na0o",
+        "channelId": "dm-1768580274092",
+        "authorId": "user-1768578781735",
+        "content": "hmph",
+        "timestamp": 1769791135800,
+        "mentions": [],
+        "isSystem": false
+      },
+      {
+        "id": "msg-1769791154769-eqyo0",
+        "channelId": "dm-1768580274092",
+        "authorId": "user-1768578781735",
+        "content": "adolf thought you did something",
+        "timestamp": 1769791154769,
         "mentions": [],
         "isSystem": false
       }
